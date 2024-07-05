@@ -1,4 +1,5 @@
-# Dehazer
+# Smart Vehicles Surveillance in Foggy Conditions using Enhanced Deep Learning Algorithms
+
 Foggy conditions pose significant challenges for vehicles due to reduced visibility, making it difficult for drivers 
 to see other vehicles, pedestrians, and road signs, which increases the risk of accidents. Fog also distorts depth 
 perception, complicating the ability to accurately judge distances and speeds of other vehicles, leading to 
