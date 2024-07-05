@@ -1,0 +1,10 @@
+Vidya Nitin More, Vibha Vyas,
+Removal of fog from hazy images and their restoration,
+Journal of King Saud University - Engineering Sciences,
+2022,
+,
+ISSN 1018-3639,
+https://doi.org/10.1016/j.jksues.2022.01.002.
+(https://www.sciencedirect.com/science/article/pii/S1018363922000022)
+Abstract: The prominent reason behind road accidents during the winter season is the presence of fog in the environment. Other important reasons for the degradation of visibility are haze, smog, cloud, and rain. In the process of developing automation of a vehicle on the road, visibility and contrast are the most affected parameters of the captured image or video. Road accidents can be prevented if images taken in foggy conditions are processed to improve their quality and legibility. There are different methods available to improve the quality of foggy images, like colour attenuation prior method, dark channel prior method and fog removal using region detection network. The atmospheric particles such as water droplets which cause absorption and scattering of light further produce attenuation and air-light. The present research work is based on Dark Channel Prior (DCP) method. DCP method needs to find the transmission map which gives the strength of the fog in the image. Major parts in this algorithm are the estimation of the dark channel, finding the transmission map, refining the transmission map, and reconstructing the image without haze. The proposed algorithm has also been implemented using Raspberry pi. This research work focuses on the improvement of the reconstructed de-hazed image using various filters. The results are compared based on Contrast Gain (CG) and Color Index (CI) parameters. Many times, this application needs the object detection phase, which uses various methods; however, the scope of this paper is limited to the reconstruction of the image after the removal of fog.
+Keywords: Dehaze; Fog removal; Dark channel prior

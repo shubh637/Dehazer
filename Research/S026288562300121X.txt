@@ -1,0 +1,11 @@
+Pulkit Dwivedi, Soumendu Chakraborty,
+Single image dehazing using extended local dark channel prior,
+Image and Vision Computing,
+Volume 136,
+2023,
+104747,
+ISSN 0262-8856,
+https://doi.org/10.1016/j.imavis.2023.104747.
+(https://www.sciencedirect.com/science/article/pii/S026288562300121X)
+Abstract: Image dehazing is an important technique aimed at eliminating the haze in the atmosphere to enhance the image's visual quality. There are many applications where it has been used as a prepossessing step, such as in event detection. In recent years, the dark channel prior methodology has been recognised as an effective approach for eliminating haze from hazy images. However, the main drawback of the existing dark channel prior methodology is that it only considers a single colour channel of the RGB image with pixels having minimum intensity values. This non-uniform selection of the dark channel from a single channel eradicates the effect of the transmission across the different channels of the hazy image. Hence, the haze cannot be removed to a great extent using the existing method. Thus, to address the problem of non-uniform estimation of the dark channel by the existing dark channel prior method, we propose an approach where the dark channel will be computed from all three channels of an image by selecting the minimum intensity. The main advantage of using the proposed prior-based methodology for image dehazing over deep neural network-based models such as CNN or GANs is that training deep models requires a large amount of training data, thus resulting in a longer training time. Experimental outcomes exhibit that the proposed technique outperforms state-of-the-art methods on synthetic datasets as well as real-world hazy images. The findings demonstrate that the proposed technique obtains better accuracy as compared to the state-of-the-art methods and recent deep learning-based models over the D-HAZY, I-HAZE, O-HAZE and Middlebury databases.
+Keywords: Single image dehazing; Image enhancement; Uniform transmission estimate; Dark channel prior; Channel-wise dark channel estimation

@@ -1,0 +1,11 @@
+Xuehui Wu, Xiaobo Lu, Henry Leung,
+Video smoke separation and detection via sparse representation,
+Neurocomputing,
+Volume 360,
+2019,
+Pages 61-74,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2019.06.011.
+(https://www.sciencedirect.com/science/article/pii/S0925231219308380)
+Abstract: Most vision-based object detection methods rely heavily on feature extraction. For opaque objects, features extracted directly from the source image in motion area or on block level can provide reliable information for detection. But for smoke detection, due to its transparency, variable thickness and scattering, conventional features may not be effective. In this paper, smoke components are represented in sparse coefficients over learned smoke dictionary on block level. The process is mathematically modeled by considering the observed block image as a linear combination of smoke and background components. We propose a novel regularization and variable selection approach with elastic net solutions and discriminative constraints. The discriminative feature with respect to the sparse coefficients is selected for smoke classification and detection. Experimental results on synthesized and real video data sets show that the proposed approach outperforms conventional methods and has a significant performance enhancement.
+Keywords: Smoke separation; Smoke detection; Blending parameter; Sparse representation; Discriminative feature extraction

@@ -1,0 +1,11 @@
+T. Mohandoss, J. Rangaraj,
+Multi-Object Detection using Enhanced YOLOv2 and LuNet Algorithms in Surveillance Videos,
+e-Prime - Advances in Electrical Engineering, Electronics and Energy,
+Volume 8,
+2024,
+100535,
+ISSN 2772-6711,
+https://doi.org/10.1016/j.prime.2024.100535.
+(https://www.sciencedirect.com/science/article/pii/S2772671124001177)
+Abstract: Multiple object tracking (MOT) in videos benefits multiple applications, including robot navigation, video surveillance, video analytics, and intelligent transportation systems. Although significant progress has been made since early studies, visual tracking of many objects remains challenging because of frequent occlusions in measurements, environmental noise, changeable number of objects, and appearance similarity across objects. The proposed work focused on three significant processes, feature extraction, object detection, and classification, to identify moving objects before sharing information. This work proposes a multi-object video detection method using LuNet and deep reinforcement learning. The enhanced “you only look once” version 2 (YOLOv2) initially detects numerous objects. In this work, a base network of the YOLOv2 changed by lowering the metrics and substituting it with LuNet. In the enhanced model, the LuNet network is used for feature extraction to extract the most expected characteristics from the image. Furthermore, the proposed model is compact because of the underlying network's LuNet architecture. To demonstrate the proposed technique's performance, this method compares it to numerous state-of-the-art algorithms on the MOT20 vehicle benchmark dataset. The proposed method achieves a higher % classification accuracy of 94% for moving object settings. The experiments demonstrate that the proposed method outperforms existing models in terms of performance and accuracy.
+Keywords: Multi-object detection; LuNet; Deep learning; You Only Look Once version 2(YOLOv2)
