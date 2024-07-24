@@ -18,3 +18,5 @@ YOLOv2 and LuNet Algorithms to detect objects. When these methods are combined, 
 intricacies of hazy surroundings, improving both visibility and object detection precision. The effectiveness of 
 the proposed technique is proven through rigorous testing, highlighting its potential to enhance the operation 
 of monitoring systems in difficult weather situations
+
+link to the Research paper:https://propulsiontechjournal.com/index.php/journal/article/view/7298
