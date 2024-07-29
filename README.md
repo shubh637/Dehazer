@@ -19,12 +19,8 @@ intricacies of hazy surroundings, improving both visibility and object detection
 the proposed technique is proven through rigorous testing, highlighting its potential to enhance the operation 
 of monitoring systems in difficult weather situations
 
-![foggy image](https://github.com/shubh637/Dehazer/blob/main/images/foggy-school-morning.jpg)
+![foggy image](https://github.com/shubh637/Dehazer/blob/main/images/foggy-school-morning.jpg)  ![dehazed image](https://github.com/shubh637/Dehazer/blob/main/output/foggy-school-morning.jpg)
 
-<div align="center">
-  <h1>Orignal image</h1>
- 
-</div>
-![dehazed image](https://github.com/shubh637/Dehazer/blob/main/output/foggy-school-morning.jpg)
+
 
 ### link to the Research paper:https://propulsiontechjournal.com/index.php/journal/article/view/7298
